@@ -1,0 +1,27 @@
+---
+#-----------------------#
+            #PLUGIN#
+     #BY ItzMeFahri#
+             #SUBSCRIBE#
+      #CHANEL#
+            #ItzMeFahri#
+
+     #WARNING!!! JANGAN RENAME AUTHOR,HARGAILAH YANG MEMBUAT PLUGINS#
+#-----------------------#
+name: VanishUI
+author: ItzMeFahri
+main: ItzMeFahri\VanishUI
+api: 4.0.0
+version: 1.0.0
+
+commands:
+  vanish:
+    description: Open to command
+    aliases: ["vns", "vanishui"]
+    permission: vanish.cmd
+    
+permissions:
+  vanish.cmd:
+    description: use permissions
+    default: op
+---
